@@ -5,8 +5,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Hello World'
-                echo "updtated"
-                mkdir sakhsi
+                echo "updtated hiiiiii"
             }
         }
     }
